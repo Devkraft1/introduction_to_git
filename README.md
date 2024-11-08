@@ -1,2 +1,3 @@
 # e
-e to repo z git tutoriala
+e to repo z git tutoriala 
+zmiana
